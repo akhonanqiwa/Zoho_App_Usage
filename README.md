@@ -94,7 +94,7 @@ The dataset consists of 1 spreadsheet.
 - The donut chart show the total number of patron by each device platform used and this tells that Android is the most used device platform followed by iPhone.    
 
 ## FURTHER ANALYSIS I WOULD CONSIDER/CONCLUSION
-•	I would further analyze key metrics like "lick date and time" to get an understanding of the distribution of clicks overtime and peak usage times.    
-•	The frequency of clicks per patron by their unique id.
-•	How frequently time frame does the app gets to have a new version in a year or 6 month’s time interval.
-•	Lastly, I would further analyze the accuracy of GPS data.
+•	I would further analyze key metrics like "click date and time" to get an understanding of the distribution of clicks overtime and peak usage times.    
+•	The frequency of clicks per patron by their unique id.                 
+•	How frequently time frame does the app gets to have a new version in a year or 6 month’s time interval.                            
+•	Lastly, I would further analyze the accuracy of GPS data.               
